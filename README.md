@@ -1,4 +1,4 @@
-# cli-tool
+# cli-tool-millionaire
 Este es un proyecto de prueba que simula la creación de una herramienta de línea de comandos.
 Esta realizado en nodeJS y se presenta como el famoso juego: **Quién quiere ser millonario?**
 
