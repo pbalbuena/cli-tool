@@ -10,3 +10,14 @@ Se han usado las siguientes librerías:
 - **Inquirer**: Para pedirle input al usuario.
 - **Figlet**: Para personalizar final de felicitaciones al ganador del juego.
 - **NanoSpinner**: Para introducir un spinner mientras se revisa la respuesta correcta. 
+
+## Ejecución del proyecto
+Con git instalado, ejecutamos el siguiente comando en la terminal
+```
+git clone https://github.com/pbalbuena/cli-tool.git
+```
+
+Ahora, con la última versión de node instalada en nuestro sistema, ejecutamos el siguiente comando desde la raíz del proyecto
+```
+node .
+```
